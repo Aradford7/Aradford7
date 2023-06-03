@@ -1,4 +1,4 @@
-<p align = center ><img src="https://imgur.com/hWIyRC5.png"> </p>
+<p align = center ><img width="200" height="200" src="https://imgur.com/hWIyRC5.png"> </p>
 <div>
 <img align="right" width="400" alt="hobby" src="https://static.wikia.nocookie.net/ohmygoddess/images/e/e2/Skuld_TV.png/revision/latest/scale-to-width-down/300?cb=20230214050433"/>
 
