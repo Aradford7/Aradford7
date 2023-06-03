@@ -1,7 +1,5 @@
 <p align = center ><img src="https://i.imgur.com/u2Ppuwt.png"> </p>
-
 <div>
-
 <img align="right" width="400" alt="hobby" src="https://static.wikia.nocookie.net/ohmygoddess/images/e/e2/Skuld_TV.png/revision/latest/scale-to-width-down/300?cb=20230214050433"/>
 
 <h2> / about me /</h2>
