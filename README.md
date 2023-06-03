@@ -2,7 +2,7 @@
 
 <div>
 
-<img align="right" width="400" alt="hobby" src="[https://imgur.com/msVZZkH](https://www.google.com/url?sa=i&url=https%3A%2F%2Fohmygoddess.fandom.com%2Fwiki%2FSkuld&psig=AOvVaw0ZU95sBlIOzj0Rf_FImaUw&ust=1685865899457000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi8toLSpv8CFQAAAAAdAAAAABAJ)"/>
+<img align="right" width="400" alt="hobby" src="https://static.wikia.nocookie.net/ohmygoddess/images/e/e2/Skuld_TV.png/revision/latest/scale-to-width-down/300?cb=20230214050433"/>
 
 <h2> / about me /</h2>
   
@@ -36,7 +36,6 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   </div>
   </div>
 
